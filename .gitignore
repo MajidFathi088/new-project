@@ -1,0 +1,4 @@
+#for ignore files with specified extension
+*.doc
+#for ignore folders and their contents
+temp.ignore/
